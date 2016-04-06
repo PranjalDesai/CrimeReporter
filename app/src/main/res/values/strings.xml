@@ -1,0 +1,17 @@
+<resources>
+    <string name="facebook_app_id">431412870394275</string>
+    <string name="app_name">Crime Reporter</string>
+    <string name="title_activity_maps">Crime Map</string>
+    <string-array name="Crimes">
+        <item>Select a Crime</item>
+        <item>Assault</item>
+        <item>Battery</item>
+        <item>Kidnapping</item>
+        <item>Homicide</item>
+        <item>Rape</item>
+        <item>Robbery</item>
+        <item>Burglary</item>
+        <item>Arson</item>
+        <item>Forgery</item>
+    </string-array>
+</resources>

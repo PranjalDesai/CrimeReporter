@@ -28,10 +28,10 @@
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyAPkENNSbPpGKJ3CbORNZCivvrnjdBHfgs" />
+            android:value="ENTER_YOUR_KEY" />
         <meta-data
             android:name="com.facebook.sdk.ApplicationId"
-            android:value="@string/facebook_app_id" />
+            android:value="ENTER_YOUR_FACEBOOK_KEY" />
 
         <activity
             android:name=".MapsActivity"

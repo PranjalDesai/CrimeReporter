@@ -1,5 +1,5 @@
 <resources>
-    <string name="facebook_app_id">431412870394275</string>
+    <string name="facebook_app_id">YOUR_FACEBOOK_KEY_HERE</string>
     <string name="app_name">Crime Reporter</string>
     <string name="title_activity_maps">Crime Map</string>
     <string-array name="Crimes">
